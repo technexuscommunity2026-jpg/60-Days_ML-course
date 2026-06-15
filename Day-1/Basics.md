@@ -17,6 +17,6 @@ Here the labels are student performance
 
 Example: A class having both weak and strong students so here data is scattered and on clustering we can obtain the classification of data
 
-<img src="image_2.png">
-<img src="image_1.png">
-<img src="image.png">
+<img src="images/image_2.png">
+<img src="images/image_1.png">
+<img src="images/image.png">
