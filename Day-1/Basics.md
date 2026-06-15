@@ -1,12 +1,12 @@
-#Starting from Day 1:
-##Define Machine learning:
+<h1>Starting from Day 1:</h1>
+<h1>Define Machine learning:</h1>
 Machine Learning is the subset of AI that deals with the training of a machine to take decision based upon the data.
 
-##Simple language
+<h2>Simple language</h2>
 Understand machine Learning as a student and yourself is a teacher. As a teacher your goal is to teach a student so that he can perform well in examination.
 Similar is machine learning here our motive is to teach machines to work as per the condition provided.
 
-##Types of Machine Learning
+<h2>Types of Machine Learning</h2>
 So types are given based on the quality of data:
 
 <h2>Supervised Learning: </h2>Supervised learning is the type of ML where the data provided is purely labelled and understandable.
